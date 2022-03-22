@@ -1,2 +1,1 @@
-Let's make some changes into it
-This is a new line
+The only line present is me
